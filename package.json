@@ -1,0 +1,15 @@
+{
+  "name": "npm_oef",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-and-run": "tsc index.ts && node index.js"
+    },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.6.2"
+  }
+}
